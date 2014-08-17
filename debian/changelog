@@ -1,3 +1,10 @@
+blankon-installer (0.1.60+edusantara2) anambas; urgency=medium
+
+  * debian/control
+    - edit typo
+
+ -- Mijortsa <azis.astrojim@surabaya.di.blankon.in>  Sun, 17 Aug 2014 14:14:34 +0700
+ 
 blankon-installer (0.1.60+edusantara1) anambas; urgency=medium
 
   * Drop blankon-repository-setup 
