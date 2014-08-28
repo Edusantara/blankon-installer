@@ -1,3 +1,9 @@
+blankon-installer (0.1.60+edusantara3) anambas; urgency=low
+
+  * Drop languages not used in Edusantara
+
+ -- Mahyuddin <yudi.al@gmail.com>  Thu, 28 Aug 2014 14:08:24 +0700
+
 blankon-installer (0.1.60+edusantara2) anambas; urgency=medium
 
   * debian/control
